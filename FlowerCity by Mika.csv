@@ -1,0 +1,607 @@
+Date,Invoice Number,Flower Type,Quantity,Unit Price,Total Sales,Customer Name,Customer Type,Payment Method,Employee ID,Store Location,Discount,Net Sales
+2022-01-01,INV-9307,Sunflower,7,3.03,21.21,Bob,Regular,Debit Card,102,Suburb,10,19.089
+2022-01-01,INV-6933,Lily,19,2.13,40.47,Eve,Event,Credit Card,102,Uptown,5,38.4465
+2022-01-01,INV-4666,Sunflower,20,2.35,47,Bob,Regular,Credit Card,103,Downtown,10,42.3
+2022-01-02,INV-9712,Rose,16,1.89,30.24,Eve,Walk-in,Cash,101,Downtown,0,30.24
+2022-01-03,INV-6701,Tulip,20,3.13,62.6,Alice,Event,Credit Card,105,Suburb,5,59.47
+2022-01-03,INV-4922,Tulip,16,4.28,68.48,Alice,Walk-in,Cash,103,Uptown,5,65.056
+2022-01-04,INV-8655,Rose,17,3.09,52.53,Eve,Walk-in,Cash,101,Suburb,15,44.6505
+2022-01-04,INV-1890,Sunflower,15,3.27,49.05,Bob,Regular,Credit Card,105,Suburb,5,46.5975
+2022-01-05,INV-4827,Sunflower,14,3.59,50.26,Eve,Event,Debit Card,103,Suburb,20,40.208
+2022-01-05,INV-6027,Rose,14,1.56,21.84,Alice,Walk-in,Debit Card,104,Uptown,0,21.84
+2022-01-05,INV-5930,Daisy,4,4.23,16.92,Alice,Walk-in,Cash,104,Downtown,15,14.382
+2022-01-05,INV-9726,Rose,5,4.65,23.25,Eve,Regular,Debit Card,104,Uptown,15,19.7625
+2022-01-05,INV-5133,Tulip,15,3.08,46.2,Eve,Walk-in,Debit Card,101,Uptown,20,36.96
+2022-01-06,INV-5211,Daisy,10,4.66,46.6,Bob,Walk-in,Credit Card,105,Suburb,5,44.27
+2022-01-06,INV-8948,Sunflower,7,2.38,16.66,Bob,Event,Cash,104,Downtown,20,13.328
+2022-01-06,INV-1298,Sunflower,3,2.07,6.21,Eve,Walk-in,Debit Card,105,Uptown,5,5.8995
+2022-01-06,INV-6198,Sunflower,13,4.28,55.64,Diana,Walk-in,Credit Card,104,Uptown,15,47.294
+2022-01-06,INV-5344,Rose,17,4.82,81.94,Bob,Regular,Debit Card,102,Suburb,0,81.94
+2022-01-07,INV-4959,Rose,18,2.6,46.8,Charlie,Regular,Credit Card,103,Downtown,20,37.44
+2022-01-07,INV-8855,Tulip,14,3.71,51.94,Bob,Event,Debit Card,102,Downtown,15,44.149
+2022-01-07,INV-8435,Daisy,17,4.38,74.46,Charlie,Walk-in,Cash,103,Uptown,20,59.568
+2022-01-07,INV-1993,Tulip,1,4.95,4.95,Charlie,Walk-in,Cash,102,Suburb,20,3.96
+2022-01-07,INV-1261,Sunflower,9,2.58,23.22,Eve,Regular,Credit Card,104,Uptown,5,22.059
+2022-01-08,INV-4775,Rose,17,4.71,80.07,Charlie,Walk-in,Cash,105,Uptown,20,64.056
+2022-01-08,INV-7087,Tulip,11,2.39,26.29,Bob,Event,Cash,101,Suburb,20,21.032
+2022-01-08,INV-1671,Sunflower,6,3.03,18.18,Diana,Event,Credit Card,104,Uptown,5,17.271
+2022-01-09,INV-2326,Sunflower,19,4.87,92.53,Eve,Walk-in,Debit Card,103,Downtown,15,78.6505
+2022-01-10,INV-3797,Lily,8,4.63,37.04,Eve,Event,Debit Card,105,Uptown,20,29.632
+2022-01-10,INV-2674,Rose,9,1.87,16.83,Diana,Event,Cash,104,Downtown,15,14.3055
+2022-01-10,INV-6715,Rose,13,3.82,49.66,Alice,Event,Cash,101,Downtown,0,49.66
+2022-01-11,INV-2362,Lily,14,2.78,38.92,Alice,Walk-in,Debit Card,101,Suburb,0,38.92
+2022-01-11,INV-5995,Rose,1,2.41,2.41,Eve,Regular,Credit Card,105,Suburb,5,2.2895
+2022-01-12,INV-5378,Tulip,8,3.06,24.48,Diana,Walk-in,Credit Card,105,Suburb,20,19.584
+2022-01-12,INV-1028,Daisy,16,4.39,70.24,Alice,Walk-in,Cash,105,Downtown,10,63.216
+2022-01-13,INV-5500,Daisy,14,1.61,22.54,Alice,Event,Credit Card,101,Suburb,5,21.413
+2022-01-13,INV-9963,Lily,11,4.87,53.57,Charlie,Walk-in,Cash,102,Uptown,0,53.57
+2022-01-13,INV-8881,Tulip,9,2.11,18.99,Eve,Walk-in,Debit Card,105,Suburb,10,17.091
+2022-01-13,INV-7215,Lily,20,2.96,59.2,Diana,Regular,Debit Card,102,Suburb,10,53.28
+2022-01-14,INV-8274,Tulip,11,3.02,33.22,Alice,Regular,Debit Card,101,Uptown,0,33.22
+2022-01-14,INV-5058,Sunflower,7,4.65,32.55,Eve,Walk-in,Cash,101,Downtown,20,26.04
+2022-01-14,INV-2414,Rose,9,2.07,18.63,Alice,Walk-in,Credit Card,104,Downtown,0,18.63
+2022-01-15,INV-5617,Lily,16,3.51,56.16,Alice,Event,Cash,105,Downtown,0,56.16
+2022-01-15,INV-8722,Sunflower,1,2.65,2.65,Bob,Event,Credit Card,104,Uptown,15,2.2525
+2022-01-16,INV-6890,Tulip,16,2.02,32.32,Alice,Event,Debit Card,104,Suburb,10,29.088
+2022-01-16,INV-5177,Daisy,16,3.21,51.36,Charlie,Regular,Debit Card,103,Uptown,10,46.224
+2022-01-17,INV-6545,Tulip,9,4.85,43.65,Alice,Event,Credit Card,104,Suburb,10,39.285
+2022-01-18,INV-5824,Daisy,8,3.1,24.8,Charlie,Regular,Debit Card,102,Uptown,20,19.84
+2022-01-18,INV-5499,Lily,1,3.31,3.31,Eve,Walk-in,Cash,104,Downtown,10,2.979
+2022-01-18,INV-4343,Daisy,3,4.76,14.28,Diana,Walk-in,Credit Card,103,Uptown,5,13.566
+2022-01-18,INV-5366,Rose,7,4.63,32.41,Alice,Event,Cash,105,Suburb,20,25.928
+2022-01-19,INV-5348,Tulip,4,4.19,16.76,Eve,Walk-in,Debit Card,105,Downtown,0,16.76
+2022-01-19,INV-3074,Sunflower,18,1.62,29.16,Bob,Walk-in,Cash,102,Downtown,5,27.702
+2022-01-20,INV-9908,Daisy,10,4.93,49.3,Diana,Regular,Cash,104,Uptown,10,44.37
+2022-01-20,INV-6495,Rose,18,4.26,76.68,Alice,Event,Cash,105,Suburb,0,76.68
+2022-01-20,INV-9864,Tulip,5,4.57,22.85,Bob,Regular,Debit Card,105,Suburb,5,21.7075
+2022-01-20,INV-6271,Sunflower,13,2.81,36.53,Eve,Walk-in,Credit Card,105,Downtown,20,29.224
+2022-01-20,INV-9716,Rose,19,4.5,85.5,Charlie,Event,Debit Card,103,Uptown,15,72.675
+2022-01-21,INV-3299,Tulip,10,3.24,32.4,Eve,Walk-in,Cash,101,Suburb,15,27.54
+2022-01-22,INV-6129,Tulip,20,3.64,72.8,Charlie,Regular,Cash,101,Downtown,5,69.16
+2022-01-23,INV-9301,Rose,4,3.18,12.72,Alice,Event,Credit Card,104,Uptown,10,11.448
+2022-01-24,INV-7744,Lily,4,1.84,7.36,Eve,Regular,Cash,105,Suburb,20,5.888
+2022-01-24,INV-1632,Daisy,2,2.43,4.86,Alice,Regular,Credit Card,103,Uptown,0,4.86
+2022-01-24,INV-1775,Tulip,7,4.8,33.6,Alice,Regular,Cash,103,Suburb,10,30.24
+2022-01-24,INV-4494,Tulip,2,4.08,8.16,Alice,Event,Credit Card,101,Suburb,0,8.16
+2022-01-24,INV-8656,Daisy,18,2.69,48.42,Diana,Event,Credit Card,102,Suburb,10,43.578
+2022-01-25,INV-9459,Tulip,20,2.4,48,Bob,Regular,Credit Card,103,Suburb,15,40.8
+2022-01-25,INV-6068,Tulip,5,2.71,13.55,Eve,Walk-in,Debit Card,105,Uptown,5,12.8725
+2022-01-26,INV-6723,Tulip,14,4.28,59.92,Alice,Regular,Credit Card,104,Downtown,10,53.928
+2022-01-26,INV-3763,Lily,1,2.69,2.69,Diana,Regular,Credit Card,102,Suburb,0,2.69
+2022-01-27,INV-4013,Tulip,13,4.09,53.17,Charlie,Regular,Cash,103,Downtown,5,50.5115
+2022-01-27,INV-3620,Sunflower,6,2.87,17.22,Eve,Walk-in,Debit Card,102,Uptown,15,14.637
+2022-01-28,INV-2345,Tulip,19,3.85,73.15,Alice,Walk-in,Debit Card,105,Downtown,5,69.4925
+2022-01-28,INV-4600,Sunflower,1,2.1,2.1,Charlie,Walk-in,Debit Card,105,Suburb,10,1.89
+2022-01-28,INV-6186,Daisy,10,1.81,18.1,Bob,Regular,Credit Card,102,Suburb,5,17.195
+2022-01-28,INV-4873,Lily,8,2.72,21.76,Charlie,Event,Credit Card,103,Suburb,0,21.76
+2022-01-28,INV-4491,Rose,8,4.19,33.52,Alice,Event,Debit Card,102,Suburb,0,33.52
+2022-01-29,INV-5756,Daisy,10,4.2,42,Charlie,Walk-in,Credit Card,104,Downtown,5,39.9
+2022-01-30,INV-5076,Daisy,7,4.97,34.79,Eve,Walk-in,Debit Card,104,Downtown,10,31.311
+2022-01-30,INV-3294,Lily,6,3.42,20.52,Bob,Regular,Credit Card,102,Uptown,5,19.494
+2022-01-30,INV-3874,Daisy,9,1.66,14.94,Eve,Walk-in,Debit Card,102,Suburb,20,11.952
+2022-01-30,INV-1115,Daisy,4,3.08,12.32,Bob,Walk-in,Cash,102,Uptown,5,11.704
+2022-01-30,INV-1507,Sunflower,12,4.93,59.16,Bob,Event,Credit Card,103,Uptown,15,50.286
+2022-01-31,INV-8441,Daisy,4,3,12,Bob,Regular,Credit Card,103,Downtown,10,10.8
+2022-01-31,INV-1359,Rose,7,4.44,31.08,Charlie,Event,Debit Card,104,Suburb,0,31.08
+2022-01-31,INV-1219,Rose,14,2.86,40.04,Alice,Event,Cash,102,Downtown,15,34.034
+2022-02-01,INV-5778,Lily,10,1.88,18.8,Eve,Regular,Cash,102,Downtown,15,15.98
+2022-02-01,INV-8380,Sunflower,13,3.69,47.97,Bob,Regular,Cash,101,Uptown,20,38.376
+2022-02-02,INV-4446,Lily,6,3.66,21.96,Alice,Walk-in,Cash,101,Downtown,0,21.96
+2022-02-03,INV-2741,Sunflower,1,2.37,2.37,Charlie,Event,Debit Card,101,Suburb,20,1.896
+2022-02-03,INV-6461,Rose,20,1.87,37.4,Eve,Walk-in,Credit Card,104,Uptown,5,35.53
+2022-02-04,INV-9782,Daisy,2,3.52,7.04,Bob,Walk-in,Debit Card,101,Suburb,10,6.336
+2022-02-04,INV-7283,Rose,5,2.15,10.75,Alice,Event,Credit Card,103,Downtown,10,9.675
+2022-02-04,INV-4200,Rose,4,2.73,10.92,Charlie,Event,Cash,105,Suburb,0,10.92
+2022-02-04,INV-3182,Rose,2,2.32,4.64,Bob,Event,Cash,102,Downtown,20,3.712
+2022-02-04,INV-3583,Lily,5,3.49,17.45,Diana,Walk-in,Credit Card,104,Downtown,0,17.45
+2022-02-05,INV-7530,Sunflower,4,1.53,6.12,Diana,Event,Cash,102,Downtown,15,5.202
+2022-02-06,INV-2247,Tulip,4,1.64,6.56,Alice,Regular,Debit Card,101,Downtown,5,6.232
+2022-02-06,INV-4838,Sunflower,5,3.43,17.15,Diana,Event,Debit Card,104,Downtown,5,16.2925
+2022-02-07,INV-2277,Sunflower,17,3.48,59.16,Alice,Regular,Debit Card,104,Uptown,0,59.16
+2022-02-07,INV-9448,Lily,7,2.9,20.3,Diana,Walk-in,Credit Card,101,Suburb,15,17.255
+2022-02-07,INV-7809,Rose,14,2.1,29.4,Bob,Event,Debit Card,102,Uptown,5,27.93
+2022-02-08,INV-3160,Sunflower,10,4.18,41.8,Diana,Event,Cash,104,Uptown,15,35.53
+2022-02-08,INV-8788,Sunflower,8,4.36,34.88,Alice,Regular,Credit Card,103,Downtown,5,33.136
+2022-02-08,INV-8444,Rose,10,2.48,24.8,Diana,Event,Debit Card,104,Uptown,15,21.08
+2022-02-08,INV-1489,Lily,1,2.91,2.91,Alice,Event,Credit Card,104,Downtown,10,2.619
+2022-02-08,INV-1964,Lily,13,3.32,43.16,Alice,Event,Debit Card,102,Uptown,0,43.16
+2022-02-09,INV-3954,Lily,19,2.39,45.41,Alice,Event,Cash,104,Downtown,20,36.328
+2022-02-10,INV-1941,Lily,3,3.35,10.05,Bob,Walk-in,Debit Card,104,Downtown,0,10.05
+2022-02-11,INV-8233,Daisy,11,3.73,41.03,Diana,Walk-in,Cash,104,Downtown,15,34.8755
+2022-02-11,INV-9749,Daisy,12,2.49,29.88,Alice,Walk-in,Debit Card,103,Suburb,5,28.386
+2022-02-11,INV-1604,Rose,12,3.52,42.24,Bob,Event,Credit Card,101,Uptown,0,42.24
+2022-02-12,INV-6174,Sunflower,1,2.07,2.07,Diana,Event,Cash,102,Suburb,15,1.7595
+2022-02-13,INV-8925,Sunflower,16,4.12,65.92,Charlie,Regular,Cash,105,Downtown,10,59.328
+2022-02-14,INV-6296,Daisy,10,2.45,24.5,Charlie,Walk-in,Cash,103,Uptown,20,19.6
+2022-02-14,INV-5398,Sunflower,5,4.76,23.8,Diana,Walk-in,Credit Card,103,Suburb,20,19.04
+2022-02-14,INV-5422,Lily,5,4.05,20.25,Charlie,Regular,Credit Card,104,Suburb,10,18.225
+2022-02-15,INV-8499,Daisy,15,4.35,65.25,Eve,Event,Debit Card,102,Uptown,5,61.9875
+2022-02-15,INV-1790,Tulip,14,2.33,32.62,Alice,Regular,Debit Card,103,Suburb,10,29.358
+2022-02-15,INV-1996,Tulip,10,2.58,25.8,Bob,Walk-in,Debit Card,101,Downtown,20,20.64
+2022-02-15,INV-4642,Tulip,16,4.85,77.6,Charlie,Regular,Cash,105,Suburb,5,73.72
+2022-02-16,INV-9904,Tulip,7,3.26,22.82,Bob,Event,Cash,102,Suburb,0,22.82
+2022-02-16,INV-5223,Sunflower,3,2.09,6.27,Alice,Event,Debit Card,105,Suburb,5,5.9565
+2022-02-16,INV-2328,Lily,5,1.75,8.75,Charlie,Regular,Cash,101,Uptown,15,7.4375
+2022-02-16,INV-8946,Sunflower,9,3.97,35.73,Diana,Event,Cash,103,Uptown,10,32.157
+2022-02-17,INV-2343,Daisy,10,3.91,39.1,Eve,Regular,Credit Card,103,Suburb,5,37.145
+2022-02-17,INV-1579,Rose,18,4.32,77.76,Charlie,Walk-in,Debit Card,101,Uptown,20,62.208
+2022-02-17,INV-7358,Tulip,9,1.9,17.1,Eve,Walk-in,Credit Card,102,Suburb,20,13.68
+2022-02-18,INV-7928,Rose,3,3.07,9.21,Bob,Regular,Credit Card,102,Suburb,15,7.8285
+2022-02-18,INV-4003,Rose,8,4.09,32.72,Bob,Regular,Debit Card,104,Suburb,10,29.448
+2022-02-18,INV-8484,Daisy,2,4.44,8.88,Bob,Walk-in,Credit Card,101,Downtown,20,7.104
+2022-02-18,INV-6281,Tulip,19,2.68,50.92,Charlie,Event,Cash,102,Suburb,5,48.374
+2022-02-18,INV-6774,Tulip,1,1.94,1.94,Charlie,Regular,Cash,105,Suburb,5,1.843
+2022-02-19,INV-9384,Lily,11,3.18,34.98,Bob,Event,Credit Card,105,Downtown,15,29.733
+2022-02-19,INV-2638,Daisy,20,4.94,98.8,Diana,Regular,Debit Card,103,Downtown,10,88.92
+2022-02-19,INV-5647,Rose,8,2.94,23.52,Charlie,Walk-in,Cash,101,Downtown,10,21.168
+2022-02-19,INV-9670,Lily,18,2.52,45.36,Charlie,Walk-in,Credit Card,102,Suburb,15,38.556
+2022-02-19,INV-2043,Daisy,16,4.78,76.48,Diana,Event,Debit Card,102,Downtown,15,65.008
+2022-02-20,INV-9215,Rose,2,4.75,9.5,Eve,Walk-in,Credit Card,102,Downtown,10,8.55
+2022-02-21,INV-7385,Tulip,4,3.77,15.08,Charlie,Walk-in,Cash,101,Uptown,20,12.064
+2022-02-21,INV-3212,Tulip,5,1.94,9.7,Diana,Event,Cash,102,Downtown,20,7.76
+2022-02-21,INV-6126,Sunflower,6,4.7,28.2,Bob,Event,Debit Card,103,Downtown,0,28.2
+2022-02-22,INV-2051,Daisy,8,4.23,33.84,Charlie,Regular,Credit Card,101,Uptown,10,30.456
+2022-02-22,INV-6128,Rose,12,3.99,47.88,Diana,Walk-in,Cash,105,Suburb,0,47.88
+2022-02-22,INV-8892,Tulip,4,1.93,7.72,Eve,Event,Credit Card,102,Suburb,5,7.334
+2022-02-22,INV-4293,Daisy,5,2.96,14.8,Charlie,Regular,Cash,105,Uptown,15,12.58
+2022-02-22,INV-8347,Lily,19,3.48,66.12,Bob,Event,Debit Card,102,Suburb,15,56.202
+2022-02-23,INV-6495,Rose,1,3.68,3.68,Bob,Event,Credit Card,103,Downtown,0,3.68
+2022-02-24,INV-3043,Sunflower,14,2.21,30.94,Diana,Regular,Debit Card,105,Suburb,5,29.393
+2022-02-24,INV-5096,Tulip,13,4.32,56.16,Bob,Regular,Credit Card,105,Uptown,5,53.352
+2022-02-24,INV-5085,Lily,4,3.91,15.64,Alice,Walk-in,Credit Card,105,Downtown,5,14.858
+2022-02-25,INV-7957,Sunflower,19,3.24,61.56,Charlie,Event,Debit Card,101,Suburb,0,61.56
+2022-02-26,INV-4764,Tulip,3,3,9,Bob,Walk-in,Credit Card,104,Suburb,0,9
+2022-02-27,INV-5710,Lily,18,3.85,69.3,Bob,Walk-in,Credit Card,101,Downtown,15,58.905
+2022-02-27,INV-9325,Sunflower,9,1.59,14.31,Diana,Walk-in,Credit Card,103,Uptown,0,14.31
+2022-02-27,INV-9143,Lily,12,3.17,38.04,Charlie,Walk-in,Credit Card,103,Uptown,5,36.138
+2022-02-27,INV-8035,Sunflower,9,3.76,33.84,Eve,Event,Cash,103,Suburb,15,28.764
+2022-02-28,INV-1853,Lily,16,2.62,41.92,Alice,Event,Debit Card,105,Suburb,10,37.728
+2022-02-28,INV-8445,Sunflower,12,4.15,49.8,Eve,Event,Credit Card,105,Downtown,5,47.31
+2022-02-28,INV-3049,Tulip,20,3.87,77.4,Diana,Regular,Debit Card,104,Downtown,20,61.92
+2022-03-01,INV-2803,Rose,11,4.37,48.07,Charlie,Walk-in,Cash,105,Uptown,20,38.456
+2022-03-02,INV-5734,Sunflower,20,3.51,70.2,Bob,Event,Cash,104,Downtown,0,70.2
+2022-03-02,INV-5565,Lily,13,3.24,42.12,Charlie,Walk-in,Debit Card,101,Uptown,10,37.908
+2022-03-02,INV-1369,Tulip,3,2.04,6.12,Bob,Walk-in,Debit Card,102,Uptown,5,5.814
+2022-03-02,INV-5843,Tulip,11,3.76,41.36,Diana,Event,Credit Card,104,Downtown,20,33.088
+2022-03-03,INV-8057,Tulip,4,2.73,10.92,Diana,Regular,Cash,101,Downtown,0,10.92
+2022-03-03,INV-5750,Sunflower,13,2.87,37.31,Eve,Walk-in,Debit Card,103,Suburb,10,33.579
+2022-03-03,INV-6902,Daisy,11,2.44,26.84,Alice,Walk-in,Credit Card,101,Uptown,15,22.814
+2022-03-03,INV-7800,Lily,20,1.82,36.4,Charlie,Walk-in,Cash,104,Uptown,0,36.4
+2022-03-04,INV-5114,Tulip,13,2.53,32.89,Eve,Regular,Debit Card,104,Suburb,5,31.2455
+2022-03-04,INV-4548,Rose,13,4.87,63.31,Alice,Regular,Cash,103,Uptown,10,56.979
+2022-03-04,INV-8235,Sunflower,9,2.92,26.28,Charlie,Regular,Credit Card,105,Suburb,0,26.28
+2022-03-04,INV-4127,Tulip,12,3.62,43.44,Charlie,Walk-in,Debit Card,104,Uptown,5,41.268
+2022-03-04,INV-2017,Rose,6,3.04,18.24,Diana,Regular,Credit Card,101,Suburb,0,18.24
+2022-03-05,INV-6513,Lily,20,4.92,98.4,Eve,Regular,Credit Card,104,Suburb,5,93.48
+2022-03-05,INV-6854,Rose,4,4.9,19.6,Bob,Walk-in,Cash,103,Suburb,0,19.6
+2022-03-05,INV-3229,Lily,1,2.1,2.1,Charlie,Regular,Cash,104,Suburb,5,1.995
+2022-03-05,INV-4116,Sunflower,19,3.04,57.76,Charlie,Event,Debit Card,105,Suburb,5,54.872
+2022-03-05,INV-4799,Sunflower,16,2.63,42.08,Bob,Event,Credit Card,104,Suburb,5,39.976
+2022-03-06,INV-3969,Rose,16,3.23,51.68,Charlie,Regular,Credit Card,104,Suburb,15,43.928
+2022-03-06,INV-8579,Sunflower,9,3.92,35.28,Diana,Walk-in,Debit Card,102,Suburb,15,29.988
+2022-03-06,INV-6354,Lily,18,2.23,40.14,Alice,Walk-in,Debit Card,105,Uptown,0,40.14
+2022-03-06,INV-5928,Daisy,11,3.54,38.94,Alice,Regular,Debit Card,105,Uptown,20,31.152
+2022-03-07,INV-7693,Rose,7,3.04,21.28,Eve,Walk-in,Credit Card,103,Suburb,10,19.152
+2022-03-07,INV-9916,Daisy,4,4.57,18.28,Charlie,Walk-in,Debit Card,102,Downtown,10,16.452
+2022-03-07,INV-4550,Lily,16,3.39,54.24,Bob,Event,Credit Card,101,Downtown,10,48.816
+2022-03-07,INV-1454,Lily,10,2.76,27.6,Diana,Walk-in,Debit Card,105,Uptown,0,27.6
+2022-03-08,INV-5808,Lily,10,3.4,34,Diana,Walk-in,Credit Card,101,Uptown,20,27.2
+2022-03-08,INV-9975,Sunflower,17,2.17,36.89,Bob,Event,Cash,104,Downtown,5,35.0455
+2022-03-08,INV-1672,Rose,14,3.54,49.56,Eve,Walk-in,Debit Card,105,Uptown,15,42.126
+2022-03-08,INV-1283,Lily,18,3.04,54.72,Alice,Walk-in,Debit Card,105,Downtown,20,43.776
+2022-03-09,INV-2875,Rose,6,2.46,14.76,Diana,Event,Debit Card,102,Suburb,5,14.022
+2022-03-10,INV-1457,Lily,4,1.75,7,Eve,Walk-in,Credit Card,102,Uptown,15,5.95
+2022-03-10,INV-4630,Tulip,15,2.6,39,Diana,Event,Debit Card,104,Downtown,20,31.2
+2022-03-11,INV-4026,Sunflower,17,3.94,66.98,Bob,Regular,Credit Card,105,Downtown,0,66.98
+2022-03-11,INV-3527,Daisy,5,1.83,9.15,Charlie,Walk-in,Credit Card,101,Suburb,0,9.15
+2022-03-11,INV-6256,Daisy,12,1.59,19.08,Charlie,Walk-in,Cash,102,Downtown,5,18.126
+2022-03-11,INV-2469,Rose,4,2.45,9.8,Eve,Walk-in,Debit Card,101,Suburb,15,8.33
+2022-03-12,INV-1245,Tulip,2,2.74,5.48,Bob,Regular,Cash,104,Suburb,20,4.384
+2022-03-12,INV-5249,Lily,3,2.22,6.66,Eve,Regular,Debit Card,101,Uptown,15,5.661
+2022-03-12,INV-7531,Rose,14,3.08,43.12,Charlie,Event,Debit Card,105,Downtown,20,34.496
+2022-03-13,INV-2353,Tulip,17,1.76,29.92,Alice,Walk-in,Credit Card,105,Downtown,5,28.424
+2022-03-13,INV-3191,Daisy,1,4.9,4.9,Bob,Regular,Credit Card,104,Uptown,20,3.92
+2022-03-13,INV-5114,Tulip,18,4.99,89.82,Eve,Event,Cash,101,Uptown,15,76.347
+2022-03-14,INV-8269,Lily,16,1.76,28.16,Diana,Regular,Debit Card,104,Suburb,0,28.16
+2022-03-14,INV-1757,Tulip,8,4.26,34.08,Bob,Regular,Debit Card,104,Uptown,0,34.08
+2022-03-14,INV-2811,Daisy,2,3.1,6.2,Eve,Walk-in,Debit Card,104,Downtown,0,6.2
+2022-03-15,INV-5346,Tulip,5,4.81,24.05,Charlie,Regular,Cash,103,Suburb,15,20.4425
+2022-03-16,INV-4049,Daisy,10,3.95,39.5,Diana,Walk-in,Cash,103,Downtown,5,37.525
+2022-03-16,INV-6835,Lily,18,1.84,33.12,Eve,Walk-in,Debit Card,101,Downtown,10,29.808
+2022-03-16,INV-3244,Daisy,11,3.01,33.11,Alice,Event,Cash,103,Uptown,10,29.799
+2022-03-17,INV-9430,Daisy,9,3.49,31.41,Charlie,Regular,Debit Card,102,Suburb,5,29.8395
+2022-03-17,INV-8760,Tulip,9,4.6,41.4,Diana,Regular,Credit Card,105,Suburb,20,33.12
+2022-03-17,INV-4399,Tulip,18,4.91,88.38,Bob,Walk-in,Cash,104,Uptown,15,75.123
+2022-03-17,INV-5460,Daisy,1,3.53,3.53,Charlie,Event,Cash,102,Downtown,10,3.177
+2022-03-18,INV-9415,Lily,18,3.86,69.48,Alice,Walk-in,Credit Card,102,Uptown,15,59.058
+2022-03-18,INV-8720,Lily,16,4.28,68.48,Bob,Event,Debit Card,101,Downtown,20,54.784
+2022-03-18,INV-8256,Tulip,18,4.61,82.98,Bob,Event,Debit Card,105,Downtown,10,74.682
+2022-03-18,INV-2599,Tulip,19,2.71,51.49,Eve,Event,Debit Card,101,Uptown,0,51.49
+2022-03-19,INV-9604,Lily,13,1.51,19.63,Alice,Regular,Debit Card,103,Suburb,10,17.667
+2022-03-20,INV-3363,Tulip,9,3.37,30.33,Eve,Event,Cash,103,Uptown,5,28.8135
+2022-03-21,INV-4236,Daisy,16,4.12,65.92,Eve,Regular,Cash,104,Suburb,5,62.624
+2022-03-21,INV-6315,Rose,2,2.86,5.72,Diana,Regular,Cash,105,Suburb,10,5.148
+2022-03-21,INV-7853,Daisy,20,1.97,39.4,Alice,Regular,Cash,102,Downtown,10,35.46
+2022-03-21,INV-1966,Sunflower,3,4.24,12.72,Eve,Regular,Debit Card,102,Downtown,20,10.176
+2022-03-22,INV-1527,Rose,3,2.16,6.48,Eve,Walk-in,Cash,101,Downtown,20,5.184
+2022-03-22,INV-4123,Rose,9,3.18,28.62,Charlie,Walk-in,Debit Card,105,Uptown,5,27.189
+2022-03-23,INV-7137,Lily,14,2.69,37.66,Diana,Event,Credit Card,101,Suburb,15,32.011
+2022-03-23,INV-8282,Lily,19,4,76,Charlie,Walk-in,Debit Card,101,Suburb,15,64.6
+2022-03-23,INV-7424,Daisy,16,4.78,76.48,Bob,Regular,Debit Card,103,Suburb,15,65.008
+2022-03-23,INV-5524,Lily,18,3.69,66.42,Diana,Walk-in,Debit Card,103,Uptown,0,66.42
+2022-03-23,INV-8084,Tulip,11,4.75,52.25,Alice,Event,Debit Card,101,Suburb,15,44.4125
+2022-03-24,INV-8031,Lily,6,1.78,10.68,Eve,Walk-in,Credit Card,102,Downtown,10,9.612
+2022-03-24,INV-5568,Lily,9,1.76,15.84,Diana,Event,Debit Card,101,Downtown,10,14.256
+2022-03-25,INV-5109,Tulip,11,3.63,39.93,Bob,Event,Cash,102,Uptown,5,37.9335
+2022-03-25,INV-9445,Sunflower,3,4.8,14.4,Alice,Regular,Cash,104,Uptown,15,12.24
+2022-03-26,INV-6689,Daisy,15,2.61,39.15,Bob,Regular,Cash,105,Downtown,0,39.15
+2022-03-26,INV-9188,Lily,13,4.97,64.61,Charlie,Event,Credit Card,102,Uptown,0,64.61
+2022-03-26,INV-1569,Tulip,10,1.75,17.5,Charlie,Event,Debit Card,104,Uptown,15,14.875
+2022-03-26,INV-4879,Rose,12,3.17,38.04,Charlie,Event,Cash,105,Suburb,20,30.432
+2022-03-26,INV-6754,Sunflower,1,4.83,4.83,Bob,Walk-in,Debit Card,104,Downtown,15,4.1055
+2022-03-27,INV-6468,Lily,1,1.63,1.63,Charlie,Regular,Debit Card,105,Suburb,0,1.63
+2022-03-27,INV-5089,Lily,17,1.9,32.3,Alice,Walk-in,Credit Card,101,Uptown,20,25.84
+2022-03-27,INV-6810,Rose,9,4.29,38.61,Diana,Event,Debit Card,101,Uptown,10,34.749
+2022-03-28,INV-2305,Rose,9,1.85,16.65,Bob,Regular,Cash,101,Downtown,0,16.65
+2022-03-28,INV-4339,Tulip,8,3.01,24.08,Bob,Event,Credit Card,103,Downtown,20,19.264
+2022-03-29,INV-8166,Rose,6,2.45,14.7,Charlie,Event,Cash,102,Suburb,15,12.495
+2022-03-29,INV-9811,Lily,7,3.18,22.26,Eve,Regular,Cash,101,Suburb,10,20.034
+2022-03-29,INV-2746,Lily,18,4.29,77.22,Diana,Event,Cash,102,Suburb,0,77.22
+2022-03-30,INV-4874,Tulip,4,3.19,12.76,Eve,Regular,Debit Card,102,Downtown,15,10.846
+2022-03-30,INV-7749,Rose,13,3.5,45.5,Alice,Walk-in,Credit Card,105,Suburb,5,43.225
+2022-03-30,INV-3065,Daisy,18,2.37,42.66,Alice,Regular,Cash,103,Suburb,20,34.128
+2022-03-30,INV-3999,Sunflower,16,2.62,41.92,Bob,Event,Credit Card,105,Suburb,0,41.92
+2022-03-31,INV-7377,Sunflower,5,3.83,19.15,Diana,Walk-in,Credit Card,102,Downtown,10,17.235
+2022-03-31,INV-5539,Daisy,14,4.6,64.4,Eve,Regular,Debit Card,104,Uptown,0,64.4
+2022-03-31,INV-9513,Lily,6,4.12,24.72,Diana,Walk-in,Cash,104,Downtown,20,19.776
+2022-04-01,INV-7099,Sunflower,2,2.2,4.4,Alice,Event,Debit Card,102,Downtown,15,3.74
+2022-04-02,INV-2219,Sunflower,2,1.88,3.76,Charlie,Walk-in,Cash,101,Suburb,0,3.76
+2022-04-02,INV-5225,Daisy,7,2.24,15.68,Charlie,Regular,Cash,103,Suburb,15,13.328
+2022-04-02,INV-4435,Rose,10,3.9,39,Alice,Walk-in,Debit Card,105,Suburb,10,35.1
+2022-04-02,INV-6585,Daisy,4,3.56,14.24,Diana,Regular,Credit Card,104,Downtown,5,13.528
+2022-04-03,INV-6664,Tulip,20,4.75,95,Charlie,Event,Cash,104,Suburb,5,90.25
+2022-04-03,INV-8157,Rose,8,2.62,20.96,Charlie,Walk-in,Credit Card,101,Downtown,20,16.768
+2022-04-03,INV-5410,Rose,6,2.5,15,Diana,Event,Cash,105,Suburb,5,14.25
+2022-04-03,INV-9088,Tulip,11,1.76,19.36,Eve,Walk-in,Debit Card,104,Downtown,10,17.424
+2022-04-04,INV-5260,Sunflower,17,4.22,71.74,Alice,Walk-in,Credit Card,102,Suburb,0,71.74
+2022-04-04,INV-2877,Rose,5,4.4,22,Charlie,Walk-in,Cash,105,Uptown,5,20.9
+2022-04-04,INV-2956,Lily,10,4.93,49.3,Bob,Event,Debit Card,101,Suburb,10,44.37
+2022-04-05,INV-6848,Lily,14,2.33,32.62,Diana,Event,Cash,103,Uptown,10,29.358
+2022-04-06,INV-2937,Lily,13,1.66,21.58,Alice,Regular,Debit Card,102,Downtown,0,21.58
+2022-04-07,INV-1860,Tulip,7,4.94,34.58,Bob,Regular,Debit Card,102,Downtown,0,34.58
+2022-04-07,INV-2589,Daisy,19,1.74,33.06,Bob,Regular,Debit Card,103,Uptown,15,28.101
+2022-04-07,INV-2110,Daisy,3,2,6,Eve,Event,Cash,103,Suburb,20,4.8
+2022-04-08,INV-4332,Daisy,15,2.07,31.05,Alice,Walk-in,Cash,102,Uptown,10,27.945
+2022-04-09,INV-6525,Lily,9,2.38,21.42,Alice,Walk-in,Debit Card,101,Uptown,15,18.207
+2022-04-09,INV-1192,Rose,4,4.17,16.68,Bob,Event,Credit Card,102,Suburb,5,15.846
+2022-04-09,INV-5263,Lily,7,4.99,34.93,Charlie,Regular,Debit Card,101,Suburb,15,29.6905
+2022-04-10,INV-4943,Rose,14,3.51,49.14,Diana,Regular,Debit Card,101,Downtown,5,46.683
+2022-04-10,INV-3151,Lily,12,2.47,29.64,Alice,Regular,Cash,103,Downtown,0,29.64
+2022-04-11,INV-4486,Lily,15,3.99,59.85,Eve,Regular,Credit Card,101,Downtown,5,56.8575
+2022-04-11,INV-1584,Sunflower,1,1.51,1.51,Diana,Regular,Cash,103,Uptown,20,1.208
+2022-04-12,INV-7793,Daisy,14,2.37,33.18,Diana,Regular,Cash,105,Suburb,20,26.544
+2022-04-12,INV-8571,Sunflower,10,3.07,30.7,Bob,Regular,Cash,103,Suburb,15,26.095
+2022-04-12,INV-1196,Lily,19,2.81,53.39,Charlie,Regular,Debit Card,102,Uptown,10,48.051
+2022-04-12,INV-2696,Tulip,2,4.97,9.94,Bob,Walk-in,Cash,101,Uptown,10,8.946
+2022-04-13,INV-5538,Lily,7,3.04,21.28,Alice,Event,Debit Card,101,Uptown,0,21.28
+2022-04-14,INV-4176,Tulip,1,5,5,Diana,Regular,Debit Card,105,Uptown,20,4
+2022-04-15,INV-7220,Daisy,2,4.72,9.44,Diana,Event,Debit Card,102,Downtown,20,7.552
+2022-04-15,INV-6205,Daisy,20,2.17,43.4,Bob,Walk-in,Credit Card,105,Downtown,0,43.4
+2022-04-15,INV-7139,Daisy,12,4.82,57.84,Bob,Event,Debit Card,104,Uptown,5,54.948
+2022-04-15,INV-4640,Rose,3,3.01,9.03,Diana,Event,Credit Card,103,Downtown,0,9.03
+2022-04-15,INV-6771,Lily,9,3.65,32.85,Charlie,Regular,Cash,101,Downtown,15,27.9225
+2022-04-16,INV-9179,Sunflower,13,2.81,36.53,Eve,Walk-in,Cash,103,Suburb,15,31.0505
+2022-04-17,INV-8459,Lily,5,1.76,8.8,Alice,Regular,Debit Card,105,Suburb,0,8.8
+2022-04-17,INV-5790,Tulip,9,4.42,39.78,Eve,Event,Debit Card,101,Uptown,15,33.813
+2022-04-18,INV-8407,Rose,18,2.5,45,Diana,Walk-in,Credit Card,101,Suburb,20,36
+2022-04-19,INV-9874,Lily,9,4.4,39.6,Eve,Regular,Cash,101,Downtown,0,39.6
+2022-04-20,INV-7983,Lily,13,4.83,62.79,Diana,Event,Credit Card,102,Suburb,0,62.79
+2022-04-20,INV-4053,Tulip,10,3.21,32.1,Diana,Walk-in,Debit Card,102,Uptown,5,30.495
+2022-04-20,INV-7289,Sunflower,3,3.96,11.88,Diana,Event,Debit Card,101,Uptown,10,10.692
+2022-04-20,INV-3751,Tulip,16,2.72,43.52,Bob,Event,Credit Card,105,Uptown,5,41.344
+2022-04-20,INV-2941,Sunflower,16,3.92,62.72,Bob,Walk-in,Debit Card,101,Uptown,10,56.448
+2022-04-21,INV-9468,Rose,10,3.19,31.9,Eve,Event,Cash,103,Downtown,0,31.9
+2022-04-22,INV-8141,Daisy,8,4.33,34.64,Alice,Walk-in,Debit Card,105,Downtown,15,29.444
+2022-04-22,INV-3587,Tulip,1,4.18,4.18,Alice,Walk-in,Debit Card,105,Suburb,10,3.762
+2022-04-23,INV-8981,Daisy,14,1.97,27.58,Charlie,Regular,Debit Card,102,Uptown,15,23.443
+2022-04-24,INV-9542,Tulip,17,4.67,79.39,Diana,Regular,Credit Card,101,Suburb,10,71.451
+2022-04-25,INV-6819,Tulip,17,2.23,37.91,Charlie,Walk-in,Debit Card,101,Uptown,5,36.0145
+2022-04-26,INV-4584,Tulip,9,2.94,26.46,Diana,Walk-in,Credit Card,101,Uptown,10,23.814
+2022-04-27,INV-6125,Tulip,7,3.76,26.32,Alice,Walk-in,Cash,104,Downtown,0,26.32
+2022-04-27,INV-9582,Tulip,1,3.93,3.93,Eve,Regular,Credit Card,102,Downtown,0,3.93
+2022-04-27,INV-9919,Tulip,12,3.58,42.96,Alice,Regular,Cash,101,Downtown,0,42.96
+2022-04-27,INV-5146,Lily,1,3.19,3.19,Eve,Event,Cash,101,Uptown,15,2.7115
+2022-04-27,INV-9474,Daisy,1,2.31,2.31,Diana,Event,Debit Card,104,Uptown,10,2.079
+2022-04-28,INV-8681,Tulip,8,1.86,14.88,Diana,Walk-in,Cash,104,Uptown,0,14.88
+2022-04-28,INV-7710,Daisy,3,3.53,10.59,Bob,Event,Credit Card,104,Suburb,15,9.0015
+2022-04-28,INV-2544,Rose,14,1.79,25.06,Alice,Regular,Credit Card,105,Suburb,0,25.06
+2022-04-28,INV-7482,Rose,12,2.73,32.76,Bob,Regular,Debit Card,101,Uptown,10,29.484
+2022-04-28,INV-6860,Sunflower,7,4.84,33.88,Alice,Walk-in,Cash,101,Uptown,10,30.492
+2022-04-29,INV-7184,Lily,2,4.7,9.4,Charlie,Regular,Cash,102,Suburb,10,8.46
+2022-04-29,INV-6165,Lily,9,2.34,21.06,Charlie,Walk-in,Debit Card,105,Downtown,5,20.007
+2022-04-29,INV-6666,Lily,6,3.12,18.72,Alice,Regular,Credit Card,105,Downtown,0,18.72
+2022-04-29,INV-4072,Sunflower,16,4.34,69.44,Alice,Event,Debit Card,102,Downtown,15,59.024
+2022-04-30,INV-9462,Sunflower,7,4.39,30.73,Bob,Regular,Debit Card,101,Uptown,20,24.584
+2022-04-30,INV-3549,Sunflower,14,4.5,63,Eve,Event,Credit Card,102,Downtown,15,53.55
+2022-04-30,INV-7715,Sunflower,16,4.44,71.04,Eve,Regular,Cash,104,Uptown,15,60.384
+2022-05-01,INV-9789,Daisy,15,3.19,47.85,Bob,Event,Cash,101,Downtown,5,45.4575
+2022-05-02,INV-7274,Tulip,6,2.76,16.56,Diana,Event,Cash,105,Suburb,15,14.076
+2022-05-02,INV-8443,Lily,16,3.15,50.4,Charlie,Walk-in,Credit Card,105,Suburb,5,47.88
+2022-05-03,INV-8464,Daisy,4,4.11,16.44,Diana,Regular,Cash,101,Uptown,5,15.618
+2022-05-03,INV-5708,Tulip,7,4.31,30.17,Bob,Event,Credit Card,101,Suburb,20,24.136
+2022-05-04,INV-4421,Daisy,15,2.22,33.3,Charlie,Walk-in,Debit Card,101,Downtown,10,29.97
+2022-05-04,INV-9100,Daisy,10,2.19,21.9,Bob,Event,Credit Card,102,Uptown,5,20.805
+2022-05-04,INV-5318,Tulip,11,2.53,27.83,Diana,Event,Cash,102,Uptown,10,25.047
+2022-05-04,INV-6827,Lily,13,1.97,25.61,Diana,Walk-in,Debit Card,104,Downtown,20,20.488
+2022-05-04,INV-6174,Daisy,3,1.5,4.5,Alice,Regular,Cash,103,Downtown,10,4.05
+2022-05-05,INV-5254,Lily,16,4.08,65.28,Alice,Walk-in,Cash,101,Downtown,20,52.224
+2022-05-05,INV-6352,Sunflower,5,4.03,20.15,Eve,Regular,Cash,104,Suburb,15,17.1275
+2022-05-05,INV-7793,Rose,11,3.34,36.74,Eve,Regular,Cash,104,Suburb,10,33.066
+2022-05-05,INV-5930,Tulip,17,3.11,52.87,Diana,Walk-in,Debit Card,104,Suburb,5,50.2265
+2022-05-05,INV-3522,Lily,10,4.17,41.7,Bob,Walk-in,Cash,101,Uptown,5,39.615
+2022-05-06,INV-2623,Rose,17,4.27,72.59,Bob,Regular,Cash,104,Suburb,15,61.7015
+2022-05-07,INV-9401,Lily,5,3.48,17.4,Eve,Event,Credit Card,102,Uptown,10,15.66
+2022-05-07,INV-3235,Sunflower,12,1.91,22.92,Alice,Walk-in,Credit Card,105,Uptown,15,19.482
+2022-05-07,INV-5385,Rose,6,4.47,26.82,Diana,Walk-in,Cash,103,Downtown,5,25.479
+2022-05-07,INV-6753,Tulip,20,3.71,74.2,Charlie,Regular,Cash,105,Uptown,0,74.2
+2022-05-08,INV-5129,Sunflower,11,4.58,50.38,Alice,Regular,Debit Card,104,Uptown,15,42.823
+2022-05-08,INV-8000,Tulip,4,2.67,10.68,Diana,Event,Debit Card,101,Uptown,20,8.544
+2022-05-08,INV-4892,Rose,15,1.62,24.3,Alice,Walk-in,Cash,103,Downtown,10,21.87
+2022-05-08,INV-2424,Rose,12,2.3,27.6,Alice,Event,Cash,103,Downtown,0,27.6
+2022-05-09,INV-8665,Rose,18,3.39,61.02,Alice,Walk-in,Credit Card,101,Downtown,10,54.918
+2022-05-09,INV-6557,Lily,16,4.09,65.44,Diana,Event,Debit Card,102,Downtown,5,62.168
+2022-05-09,INV-3567,Daisy,13,3.16,41.08,Alice,Walk-in,Cash,102,Suburb,15,34.918
+2022-05-10,INV-1383,Lily,14,1.98,27.72,Eve,Walk-in,Debit Card,101,Uptown,10,24.948
+2022-05-10,INV-5607,Daisy,16,1.55,24.8,Diana,Walk-in,Credit Card,101,Uptown,20,19.84
+2022-05-10,INV-6735,Daisy,11,3.68,40.48,Charlie,Regular,Debit Card,101,Suburb,0,40.48
+2022-05-11,INV-5829,Rose,11,4.51,49.61,Bob,Event,Credit Card,102,Suburb,20,39.688
+2022-05-11,INV-2073,Rose,3,4.5,13.5,Bob,Regular,Cash,101,Uptown,15,11.475
+2022-05-11,INV-8668,Rose,10,4.62,46.2,Alice,Regular,Debit Card,102,Downtown,20,36.96
+2022-05-11,INV-2307,Daisy,8,3.19,25.52,Charlie,Regular,Cash,102,Downtown,5,24.244
+2022-05-11,INV-6741,Sunflower,17,3.04,51.68,Alice,Event,Credit Card,103,Uptown,20,41.344
+2022-05-12,INV-6280,Daisy,12,4.96,59.52,Diana,Walk-in,Credit Card,103,Uptown,5,56.544
+2022-05-12,INV-2002,Lily,1,2.55,2.55,Alice,Walk-in,Debit Card,104,Downtown,20,2.04
+2022-05-12,INV-2033,Lily,15,2.01,30.15,Diana,Regular,Credit Card,102,Uptown,0,30.15
+2022-05-13,INV-4068,Daisy,5,2.08,10.4,Bob,Walk-in,Debit Card,103,Downtown,20,8.32
+2022-05-13,INV-4787,Rose,20,1.87,37.4,Alice,Event,Cash,103,Uptown,5,35.53
+2022-05-13,INV-6332,Daisy,3,2.04,6.12,Eve,Regular,Cash,103,Downtown,20,4.896
+2022-05-13,INV-5125,Sunflower,17,2.36,40.12,Alice,Regular,Credit Card,102,Uptown,20,32.096
+2022-05-13,INV-1144,Daisy,10,3.89,38.9,Diana,Event,Credit Card,105,Downtown,5,36.955
+2022-05-14,INV-1466,Lily,8,2.95,23.6,Charlie,Walk-in,Debit Card,103,Uptown,10,21.24
+2022-05-14,INV-6666,Rose,6,3.66,21.96,Eve,Regular,Cash,103,Suburb,20,17.568
+2022-05-15,INV-3705,Sunflower,6,4.14,24.84,Diana,Event,Cash,105,Downtown,10,22.356
+2022-05-16,INV-8614,Tulip,8,2.04,16.32,Bob,Event,Debit Card,104,Uptown,5,15.504
+2022-05-17,INV-2482,Daisy,9,4.94,44.46,Bob,Walk-in,Debit Card,105,Uptown,5,42.237
+2022-05-17,INV-8625,Lily,18,1.88,33.84,Eve,Regular,Credit Card,105,Downtown,0,33.84
+2022-05-17,INV-4878,Tulip,15,3.68,55.2,Eve,Regular,Credit Card,103,Downtown,20,44.16
+2022-05-18,INV-1842,Daisy,8,4.13,33.04,Alice,Event,Debit Card,102,Suburb,15,28.084
+2022-05-19,INV-6569,Sunflower,11,3.47,38.17,Diana,Walk-in,Debit Card,103,Suburb,15,32.4445
+2022-05-19,INV-7776,Rose,15,2.85,42.75,Bob,Walk-in,Credit Card,103,Uptown,0,42.75
+2022-05-19,INV-2883,Lily,9,3.28,29.52,Diana,Regular,Cash,102,Suburb,10,26.568
+2022-05-20,INV-6773,Tulip,17,4.39,74.63,Alice,Event,Debit Card,102,Suburb,0,74.63
+2022-05-20,INV-4093,Sunflower,6,3.99,23.94,Eve,Regular,Credit Card,101,Suburb,10,21.546
+2022-05-20,INV-8515,Sunflower,19,1.66,31.54,Eve,Event,Credit Card,102,Uptown,15,26.809
+2022-05-20,INV-1484,Rose,17,4.96,84.32,Charlie,Walk-in,Cash,103,Downtown,0,84.32
+2022-05-20,INV-7685,Lily,10,2.38,23.8,Eve,Regular,Credit Card,102,Suburb,0,23.8
+2022-05-21,INV-3060,Sunflower,11,2.32,25.52,Bob,Regular,Credit Card,105,Uptown,20,20.416
+2022-05-21,INV-9915,Tulip,12,4.57,54.84,Charlie,Regular,Debit Card,101,Suburb,20,43.872
+2022-05-21,INV-4725,Daisy,20,3.84,76.8,Bob,Regular,Credit Card,104,Downtown,10,69.12
+2022-05-21,INV-2694,Rose,10,2.06,20.6,Alice,Event,Cash,104,Downtown,5,19.57
+2022-05-22,INV-1669,Tulip,12,2.77,33.24,Bob,Regular,Debit Card,104,Uptown,15,28.254
+2022-05-23,INV-7779,Daisy,12,2.46,29.52,Eve,Regular,Cash,103,Downtown,15,25.092
+2022-05-23,INV-7726,Lily,8,3.15,25.2,Charlie,Walk-in,Cash,101,Downtown,15,21.42
+2022-05-23,INV-6674,Lily,16,1.85,29.6,Bob,Regular,Credit Card,101,Suburb,20,23.68
+2022-05-23,INV-9150,Daisy,4,2.75,11,Bob,Regular,Debit Card,101,Suburb,15,9.35
+2022-05-23,INV-1677,Lily,9,3.19,28.71,Diana,Regular,Debit Card,102,Suburb,15,24.4035
+2022-05-24,INV-7976,Sunflower,11,2.86,31.46,Charlie,Walk-in,Debit Card,105,Suburb,20,25.168
+2022-05-24,INV-4179,Sunflower,5,2.9,14.5,Bob,Walk-in,Credit Card,105,Downtown,20,11.6
+2022-05-24,INV-4719,Sunflower,16,2.06,32.96,Eve,Regular,Credit Card,103,Uptown,0,32.96
+2022-05-24,INV-4122,Rose,12,4.95,59.4,Charlie,Event,Credit Card,103,Downtown,15,50.49
+2022-05-25,INV-1928,Tulip,17,4.59,78.03,Alice,Regular,Cash,104,Uptown,10,70.227
+2022-05-26,INV-8172,Sunflower,2,2.44,4.88,Diana,Regular,Debit Card,103,Suburb,20,3.904
+2022-05-26,INV-3540,Tulip,6,2.47,14.82,Charlie,Walk-in,Cash,103,Downtown,0,14.82
+2022-05-26,INV-6182,Sunflower,3,1.51,4.53,Charlie,Walk-in,Cash,101,Uptown,0,4.53
+2022-05-26,INV-4898,Rose,15,2.48,37.2,Charlie,Event,Cash,101,Uptown,20,29.76
+2022-05-27,INV-7324,Rose,14,3.05,42.7,Diana,Walk-in,Debit Card,105,Uptown,10,38.43
+2022-05-27,INV-1506,Rose,4,4.45,17.8,Alice,Regular,Credit Card,102,Uptown,20,14.24
+2022-05-28,INV-2373,Rose,9,4.28,38.52,Alice,Event,Credit Card,104,Downtown,15,32.742
+2022-05-29,INV-7510,Rose,17,4.81,81.77,Bob,Walk-in,Debit Card,104,Downtown,0,81.77
+2022-05-30,INV-7853,Daisy,14,3.96,55.44,Charlie,Walk-in,Cash,101,Downtown,15,47.124
+2022-05-30,INV-1890,Rose,11,2.48,27.28,Eve,Regular,Debit Card,101,Suburb,15,23.188
+2022-05-31,INV-4668,Rose,1,4.49,4.49,Charlie,Event,Debit Card,104,Uptown,15,3.8165
+2022-05-31,INV-8590,Lily,14,2.98,41.72,Charlie,Walk-in,Cash,101,Downtown,5,39.634
+2022-06-01,INV-4769,Sunflower,4,2.11,8.44,Charlie,Event,Debit Card,105,Suburb,0,8.44
+2022-06-01,INV-5296,Lily,11,2.64,29.04,Eve,Walk-in,Debit Card,102,Uptown,15,24.684
+2022-06-01,INV-5079,Sunflower,13,3.27,42.51,Bob,Regular,Cash,105,Suburb,15,36.1335
+2022-06-01,INV-1687,Tulip,15,1.68,25.2,Diana,Walk-in,Credit Card,104,Uptown,5,23.94
+2022-06-01,INV-8681,Tulip,1,4.85,4.85,Alice,Event,Cash,104,Uptown,15,4.1225
+2022-06-02,INV-8062,Sunflower,14,2.34,32.76,Charlie,Walk-in,Debit Card,103,Uptown,20,26.208
+2022-06-02,INV-4772,Sunflower,3,4.49,13.47,Diana,Regular,Cash,105,Downtown,15,11.4495
+2022-06-02,INV-6768,Daisy,14,2.35,32.9,Diana,Event,Cash,104,Uptown,5,31.255
+2022-06-02,INV-7164,Rose,9,1.62,14.58,Eve,Regular,Cash,103,Suburb,5,13.851
+2022-06-02,INV-3419,Daisy,18,2.28,41.04,Eve,Event,Credit Card,105,Downtown,5,38.988
+2022-06-03,INV-3939,Daisy,15,3.96,59.4,Diana,Event,Debit Card,104,Uptown,15,50.49
+2022-06-03,INV-8343,Rose,7,3.99,27.93,Diana,Walk-in,Cash,104,Downtown,20,22.344
+2022-06-04,INV-2418,Rose,10,1.73,17.3,Diana,Walk-in,Credit Card,102,Uptown,10,15.57
+2022-06-04,INV-6371,Rose,5,3.06,15.3,Alice,Event,Credit Card,104,Downtown,0,15.3
+2022-06-04,INV-2101,Lily,16,3.72,59.52,Eve,Event,Credit Card,104,Suburb,0,59.52
+2022-06-05,INV-6832,Daisy,14,4.4,61.6,Charlie,Event,Debit Card,102,Suburb,20,49.28
+2022-06-05,INV-4921,Daisy,4,1.8,7.2,Diana,Regular,Cash,102,Downtown,5,6.84
+2022-06-05,INV-2396,Daisy,20,3.83,76.6,Charlie,Regular,Cash,103,Suburb,10,68.94
+2022-06-06,INV-8147,Sunflower,2,3,6,Diana,Regular,Cash,101,Uptown,0,6
+2022-06-06,INV-8495,Daisy,6,3.74,22.44,Diana,Walk-in,Cash,105,Downtown,10,20.196
+2022-06-06,INV-6460,Tulip,11,2.14,23.54,Charlie,Event,Debit Card,101,Suburb,20,18.832
+2022-06-06,INV-9638,Tulip,12,2.69,32.28,Charlie,Regular,Cash,105,Downtown,0,32.28
+2022-06-06,INV-7906,Sunflower,11,3.53,38.83,Eve,Walk-in,Cash,104,Downtown,20,31.064
+2022-06-07,INV-2873,Rose,18,2.56,46.08,Charlie,Regular,Debit Card,105,Downtown,5,43.776
+2022-06-08,INV-4554,Daisy,11,1.92,21.12,Charlie,Event,Debit Card,105,Suburb,10,19.008
+2022-06-09,INV-3080,Rose,8,1.95,15.6,Eve,Event,Credit Card,103,Uptown,15,13.26
+2022-06-09,INV-7204,Tulip,4,4.89,19.56,Bob,Regular,Credit Card,102,Downtown,5,18.582
+2022-06-09,INV-4802,Lily,13,4.51,58.63,Diana,Event,Debit Card,104,Downtown,20,46.904
+2022-06-10,INV-8508,Rose,5,3.74,18.7,Eve,Regular,Cash,102,Downtown,10,16.83
+2022-06-10,INV-2366,Lily,10,1.63,16.3,Diana,Walk-in,Debit Card,105,Uptown,0,16.3
+2022-06-11,INV-9314,Rose,19,3.68,69.92,Alice,Regular,Debit Card,101,Suburb,20,55.936
+2022-06-11,INV-9275,Daisy,18,4.73,85.14,Eve,Event,Cash,101,Suburb,10,76.626
+2022-06-11,INV-8572,Daisy,10,1.7,17,Alice,Walk-in,Debit Card,105,Downtown,5,16.15
+2022-06-11,INV-5016,Daisy,10,1.81,18.1,Alice,Regular,Cash,103,Suburb,20,14.48
+2022-06-11,INV-2899,Daisy,14,1.59,22.26,Alice,Walk-in,Cash,105,Uptown,10,20.034
+2022-06-12,INV-3732,Lily,7,4.4,30.8,Bob,Event,Credit Card,104,Uptown,10,27.72
+2022-06-12,INV-1101,Lily,3,2.63,7.89,Charlie,Walk-in,Debit Card,105,Uptown,0,7.89
+2022-06-12,INV-1931,Daisy,14,2.33,32.62,Alice,Walk-in,Credit Card,105,Uptown,5,30.989
+2022-06-12,INV-3424,Rose,3,2.13,6.39,Eve,Regular,Credit Card,103,Downtown,15,5.4315
+2022-06-13,INV-2879,Lily,14,4.9,68.6,Eve,Regular,Debit Card,105,Uptown,10,61.74
+2022-06-13,INV-9156,Lily,4,3.98,15.92,Eve,Walk-in,Debit Card,102,Uptown,5,15.124
+2022-06-13,INV-2366,Lily,5,3.52,17.6,Charlie,Walk-in,Cash,105,Suburb,15,14.96
+2022-06-14,INV-6258,Daisy,16,1.52,24.32,Eve,Regular,Cash,101,Uptown,5,23.104
+2022-06-15,INV-6699,Daisy,5,3.26,16.3,Charlie,Regular,Cash,103,Downtown,15,13.855
+2022-06-15,INV-4732,Lily,10,2.48,24.8,Diana,Walk-in,Cash,103,Suburb,15,21.08
+2022-06-16,INV-8857,Sunflower,4,2.76,11.04,Diana,Event,Credit Card,104,Suburb,20,8.832
+2022-06-17,INV-1364,Lily,17,2.33,39.61,Alice,Event,Debit Card,103,Downtown,20,31.688
+2022-06-18,INV-8663,Daisy,19,3.09,58.71,Charlie,Walk-in,Debit Card,102,Downtown,20,46.968
+2022-06-18,INV-9907,Lily,12,4.81,57.72,Diana,Regular,Debit Card,101,Downtown,15,49.062
+2022-06-18,INV-7867,Daisy,11,3.79,41.69,Alice,Event,Debit Card,103,Downtown,10,37.521
+2022-06-18,INV-7436,Rose,10,2.17,21.7,Diana,Regular,Debit Card,105,Downtown,5,20.615
+2022-06-19,INV-3576,Rose,20,3.11,62.2,Bob,Event,Debit Card,105,Downtown,20,49.76
+2022-06-19,INV-1119,Lily,18,4.61,82.98,Alice,Event,Debit Card,105,Uptown,5,78.831
+2022-06-19,INV-2062,Tulip,1,2.27,2.27,Diana,Event,Debit Card,102,Suburb,15,1.9295
+2022-06-19,INV-9650,Rose,3,3.24,9.72,Eve,Regular,Debit Card,105,Uptown,5,9.234
+2022-06-19,INV-7054,Daisy,12,1.96,23.52,Diana,Regular,Debit Card,101,Downtown,5,22.344
+2022-06-20,INV-8883,Rose,19,3.47,65.93,Diana,Walk-in,Cash,105,Uptown,20,52.744
+2022-06-21,INV-2456,Sunflower,8,2.87,22.96,Charlie,Walk-in,Cash,104,Suburb,0,22.96
+2022-06-21,INV-1831,Rose,14,4.03,56.42,Alice,Event,Debit Card,105,Downtown,20,45.136
+2022-06-21,INV-9295,Rose,17,5,85,Charlie,Walk-in,Credit Card,104,Downtown,0,85
+2022-06-21,INV-5181,Daisy,6,4.15,24.9,Bob,Regular,Credit Card,103,Uptown,5,23.655
+2022-06-21,INV-3556,Tulip,19,4.25,80.75,Eve,Regular,Credit Card,102,Uptown,0,80.75
+2022-06-22,INV-5899,Rose,10,2,20,Bob,Event,Cash,105,Downtown,0,20
+2022-06-22,INV-3225,Lily,8,4.77,38.16,Alice,Regular,Debit Card,102,Uptown,20,30.528
+2022-06-23,INV-7813,Tulip,13,1.99,25.87,Alice,Event,Cash,102,Suburb,15,21.9895
+2022-06-23,INV-8890,Rose,1,4,4,Charlie,Event,Credit Card,104,Downtown,10,3.6
+2022-06-24,INV-3330,Tulip,5,2.98,14.9,Alice,Walk-in,Credit Card,101,Uptown,20,11.92
+2022-06-24,INV-9904,Tulip,5,4.49,22.45,Eve,Walk-in,Cash,102,Uptown,5,21.3275
+2022-06-24,INV-4278,Lily,6,2.81,16.86,Bob,Event,Credit Card,102,Suburb,10,15.174
+2022-06-24,INV-6130,Daisy,10,3.95,39.5,Alice,Walk-in,Credit Card,103,Downtown,20,31.6
+2022-06-25,INV-8216,Rose,16,4.55,72.8,Bob,Regular,Credit Card,101,Suburb,5,69.16
+2022-06-25,INV-5057,Daisy,4,2,8,Charlie,Regular,Credit Card,104,Suburb,15,6.8
+2022-06-26,INV-7777,Rose,16,1.93,30.88,Eve,Walk-in,Cash,105,Suburb,5,29.336
+2022-06-26,INV-1409,Daisy,17,4.98,84.66,Eve,Event,Debit Card,104,Uptown,15,71.961
+2022-06-26,INV-9450,Rose,3,3.39,10.17,Bob,Walk-in,Debit Card,104,Uptown,15,8.6445
+2022-06-27,INV-6917,Sunflower,16,3.55,56.8,Alice,Walk-in,Credit Card,101,Suburb,5,53.96
+2022-06-27,INV-1872,Daisy,4,2.2,8.8,Charlie,Walk-in,Credit Card,102,Suburb,0,8.8
+2022-06-27,INV-7737,Lily,5,4.58,22.9,Charlie,Event,Cash,105,Suburb,0,22.9
+2022-06-27,INV-1571,Tulip,17,3.95,67.15,Eve,Event,Debit Card,104,Uptown,15,57.0775
+2022-06-27,INV-5415,Sunflower,7,3.84,26.88,Diana,Event,Credit Card,105,Suburb,10,24.192
+2022-06-28,INV-1427,Rose,16,4.77,76.32,Bob,Regular,Cash,101,Suburb,10,68.688
+2022-06-28,INV-1283,Daisy,2,2.72,5.44,Charlie,Event,Credit Card,103,Uptown,15,4.624
+2022-06-28,INV-5662,Daisy,3,3.19,9.57,Alice,Event,Cash,104,Suburb,20,7.656
+2022-06-28,INV-8656,Rose,18,3,54,Diana,Event,Debit Card,105,Downtown,5,51.3
+2022-06-29,INV-8075,Sunflower,3,1.6,4.8,Alice,Event,Debit Card,105,Uptown,15,4.08
+2022-06-29,INV-6968,Tulip,12,3.84,46.08,Bob,Event,Debit Card,105,Uptown,15,39.168
+2022-06-29,INV-2961,Rose,1,2.09,2.09,Charlie,Regular,Debit Card,104,Suburb,15,1.7765
+2022-06-29,INV-3517,Tulip,16,2.76,44.16,Bob,Regular,Debit Card,103,Downtown,15,37.536
+2022-06-30,INV-1507,Sunflower,1,4.81,4.81,Alice,Event,Cash,103,Suburb,15,4.0885
+2022-07-01,INV-1274,Lily,7,3.54,24.78,Bob,Event,Credit Card,102,Uptown,15,21.063
+2022-07-01,INV-3002,Rose,14,4.33,60.62,Eve,Regular,Debit Card,101,Suburb,5,57.589
+2022-07-01,INV-7266,Lily,10,3.99,39.9,Alice,Regular,Credit Card,101,Uptown,15,33.915
+2022-07-01,INV-5698,Daisy,13,3.93,51.09,Bob,Regular,Credit Card,104,Suburb,10,45.981
+2022-07-02,INV-1345,Tulip,2,3.12,6.24,Bob,Walk-in,Credit Card,105,Suburb,20,4.992
+2022-07-02,INV-8506,Sunflower,15,2.32,34.8,Diana,Regular,Debit Card,102,Downtown,10,31.32
+2022-07-03,INV-6144,Lily,6,2.35,14.1,Diana,Regular,Cash,104,Uptown,10,12.69
+2022-07-03,INV-9576,Daisy,11,4.33,47.63,Eve,Regular,Debit Card,104,Downtown,15,40.4855
+2022-07-04,INV-5642,Tulip,8,4.68,37.44,Eve,Walk-in,Debit Card,103,Downtown,5,35.568
+2022-07-04,INV-2047,Tulip,15,4.05,60.75,Diana,Event,Debit Card,104,Downtown,0,60.75
+2022-07-04,INV-2910,Daisy,20,3.41,68.2,Charlie,Walk-in,Credit Card,103,Suburb,15,57.97
+2022-07-05,INV-3639,Tulip,12,3.03,36.36,Alice,Walk-in,Credit Card,105,Suburb,20,29.088
+2022-07-05,INV-1681,Daisy,11,1.86,20.46,Diana,Event,Cash,104,Downtown,0,20.46
+2022-07-05,INV-5098,Rose,1,3.42,3.42,Diana,Regular,Credit Card,102,Uptown,5,3.249
+2022-07-05,INV-6145,Rose,13,3.56,46.28,Eve,Event,Credit Card,101,Uptown,15,39.338
+2022-07-06,INV-7131,Daisy,8,2.18,17.44,Alice,Walk-in,Debit Card,102,Downtown,5,16.568
+2022-07-07,INV-1386,Lily,20,3.82,76.4,Diana,Walk-in,Cash,105,Suburb,15,64.94
+2022-07-07,INV-1833,Rose,2,4.6,9.2,Eve,Event,Debit Card,103,Uptown,20,7.36
+2022-07-07,INV-4961,Sunflower,15,3.27,49.05,Charlie,Event,Cash,101,Uptown,15,41.6925
+2022-07-08,INV-4014,Sunflower,6,2.91,17.46,Diana,Walk-in,Credit Card,102,Uptown,15,14.841
+2022-07-09,INV-2880,Daisy,8,1.88,15.04,Charlie,Regular,Debit Card,104,Uptown,5,14.288
+2022-07-09,INV-7042,Sunflower,6,2.21,13.26,Charlie,Regular,Credit Card,103,Uptown,15,11.271
+2022-07-09,INV-1881,Daisy,7,4.69,32.83,Charlie,Walk-in,Cash,104,Suburb,0,32.83
+2022-07-09,INV-3212,Rose,19,2.43,46.17,Bob,Regular,Cash,105,Downtown,20,36.936
+2022-07-09,INV-8563,Tulip,14,2.63,36.82,Charlie,Walk-in,Credit Card,101,Downtown,5,34.979
+2022-07-10,INV-9868,Rose,14,2.11,29.54,Diana,Regular,Credit Card,101,Downtown,0,29.54
+2022-07-10,INV-5660,Sunflower,9,4.57,41.13,Alice,Event,Cash,104,Uptown,0,41.13
+2022-07-10,INV-3779,Lily,14,3.83,53.62,Charlie,Event,Debit Card,103,Uptown,10,48.258
+2022-07-10,INV-2613,Tulip,14,2.3,32.2,Alice,Event,Credit Card,104,Suburb,5,30.59
+2022-07-10,INV-5515,Tulip,15,2.75,41.25,Alice,Walk-in,Cash,104,Uptown,5,39.1875
+2022-07-11,INV-7308,Daisy,9,3.13,28.17,Eve,Walk-in,Debit Card,101,Suburb,20,22.536
+2022-07-11,INV-7467,Sunflower,8,4.72,37.76,Charlie,Regular,Debit Card,105,Uptown,5,35.872
+2022-07-11,INV-7334,Tulip,15,2.66,39.9,Bob,Walk-in,Debit Card,103,Uptown,20,31.92
+2022-07-12,INV-2725,Lily,18,2.29,41.22,Eve,Walk-in,Debit Card,103,Suburb,15,35.037
+2022-07-13,INV-9581,Lily,13,2.84,36.92,Diana,Regular,Credit Card,103,Downtown,20,29.536
+2022-07-13,INV-8941,Lily,8,2.73,21.84,Diana,Event,Cash,101,Suburb,5,20.748
+2022-07-13,INV-3675,Sunflower,3,4.6,13.8,Eve,Regular,Cash,105,Suburb,15,11.73
+2022-07-14,INV-2764,Rose,10,3.67,36.7,Charlie,Event,Cash,103,Suburb,10,33.03
+2022-07-14,INV-1687,Daisy,17,3.12,53.04,Diana,Event,Credit Card,101,Downtown,15,45.084
+2022-07-14,INV-8713,Sunflower,17,3.96,67.32,Diana,Regular,Cash,104,Uptown,0,67.32
+2022-07-14,INV-5349,Tulip,15,1.9,28.5,Alice,Event,Debit Card,101,Downtown,5,27.075
+2022-07-15,INV-7828,Lily,12,2.17,26.04,Bob,Regular,Debit Card,103,Downtown,10,23.436
+2022-07-15,INV-7347,Lily,17,3.67,62.39,Diana,Regular,Credit Card,105,Uptown,10,56.151
+2022-07-15,INV-4379,Sunflower,11,3.75,41.25,Diana,Event,Credit Card,105,Suburb,5,39.1875
+2022-07-15,INV-4108,Lily,10,3.82,38.2,Eve,Walk-in,Credit Card,102,Suburb,15,32.47
+2022-07-15,INV-9514,Sunflower,2,2.47,4.94,Diana,Event,Credit Card,103,Suburb,20,3.952
+2022-07-16,INV-3211,Sunflower,8,2.67,21.36,Eve,Event,Debit Card,105,Downtown,20,17.088
+2022-07-16,INV-4092,Daisy,5,2.27,11.35,Diana,Event,Credit Card,101,Suburb,15,9.6475
+2022-07-16,INV-8225,Lily,3,3.05,9.15,Charlie,Event,Credit Card,103,Suburb,5,8.6925
+2022-07-16,INV-9059,Rose,3,4.22,12.66,Eve,Event,Debit Card,102,Downtown,15,10.761
+2022-07-17,INV-7129,Rose,9,1.69,15.21,Diana,Walk-in,Cash,101,Suburb,0,15.21
+2022-07-17,INV-9947,Rose,13,4.3,55.9,Bob,Regular,Debit Card,105,Downtown,0,55.9
+2022-07-17,INV-3084,Tulip,14,1.86,26.04,Diana,Event,Cash,101,Suburb,10,23.436
+2022-07-18,INV-7504,Rose,17,2.48,42.16,Eve,Walk-in,Cash,104,Downtown,20,33.728
+2022-07-18,INV-4471,Sunflower,5,2.23,11.15,Eve,Walk-in,Debit Card,102,Suburb,10,10.035
+2022-07-18,INV-9075,Rose,7,3.28,22.96,Bob,Regular,Cash,102,Uptown,10,20.664
+2022-07-18,INV-6389,Daisy,1,2.9,2.9,Charlie,Regular,Cash,103,Uptown,5,2.755
+2022-07-18,INV-3019,Tulip,13,2.03,26.39,Diana,Walk-in,Credit Card,101,Uptown,15,22.4315
+2022-07-19,INV-1760,Tulip,16,1.69,27.04,Eve,Regular,Debit Card,103,Downtown,5,25.688
+2022-07-19,INV-8221,Lily,1,2.07,2.07,Alice,Regular,Cash,104,Suburb,5,1.9665
+2022-07-19,INV-8194,Lily,1,1.71,1.71,Charlie,Walk-in,Debit Card,104,Uptown,10,1.539
+2022-07-19,INV-4092,Sunflower,14,4.82,67.48,Alice,Walk-in,Credit Card,104,Uptown,15,57.358
+2022-07-19,INV-6851,Daisy,19,2.35,44.65,Alice,Event,Debit Card,101,Downtown,5,42.4175
+2022-07-20,INV-5103,Tulip,14,4.76,66.64,Charlie,Walk-in,Debit Card,105,Uptown,0,66.64
+2022-07-20,INV-9341,Lily,13,1.53,19.89,Charlie,Regular,Credit Card,105,Downtown,20,15.912
+2022-07-21,INV-7509,Lily,12,4.12,49.44,Diana,Regular,Credit Card,101,Uptown,20,39.552
+2022-07-21,INV-1177,Rose,4,4.45,17.8,Bob,Walk-in,Debit Card,104,Uptown,15,15.13
+2022-07-21,INV-5606,Lily,11,4.01,44.11,Charlie,Event,Credit Card,101,Uptown,15,37.4935
+2022-07-21,INV-3097,Daisy,20,2.26,45.2,Diana,Walk-in,Debit Card,105,Downtown,5,42.94
+2022-07-21,INV-1881,Lily,10,3.88,38.8,Alice,Walk-in,Debit Card,103,Suburb,20,31.04
+2022-07-22,INV-1683,Lily,2,2.9,5.8,Eve,Regular,Credit Card,105,Uptown,20,4.64
+2022-07-23,INV-7945,Tulip,9,2.91,26.19,Charlie,Event,Credit Card,103,Downtown,20,20.952
+2022-07-23,INV-4381,Tulip,2,1.66,3.32,Charlie,Regular,Cash,104,Downtown,15,2.822
+2022-07-23,INV-4553,Lily,5,3.94,19.7,Eve,Regular,Debit Card,101,Suburb,15,16.745
+2022-07-23,INV-8772,Lily,3,3.04,9.12,Eve,Walk-in,Credit Card,105,Suburb,20,7.296
+2022-07-24,INV-3324,Daisy,14,4.94,69.16,Bob,Walk-in,Credit Card,105,Downtown,15,58.786
+2022-07-24,INV-4076,Sunflower,12,4.68,56.16,Diana,Walk-in,Debit Card,101,Suburb,5,53.352
+2022-07-24,INV-8612,Tulip,6,4.57,27.42,Eve,Regular,Credit Card,103,Uptown,5,26.049
+2022-07-24,INV-3388,Tulip,1,3.09,3.09,Bob,Event,Cash,105,Uptown,10,2.781
+2022-07-24,INV-7234,Tulip,17,3.28,55.76,Alice,Regular,Debit Card,103,Downtown,15,47.396
+2022-07-25,INV-2870,Rose,15,2.4,36,Eve,Regular,Credit Card,105,Uptown,5,34.2
+2022-07-25,INV-5454,Lily,3,2.78,8.34,Alice,Regular,Debit Card,104,Suburb,10,7.506
+2022-07-25,INV-5442,Sunflower,12,4.22,50.64,Charlie,Event,Debit Card,103,Uptown,0,50.64
+2022-07-25,INV-8532,Rose,18,2.02,36.36,Alice,Regular,Debit Card,103,Downtown,15,30.906
+2022-07-26,INV-6856,Daisy,17,4.37,74.29,Bob,Regular,Cash,102,Suburb,10,66.861
+2022-07-26,INV-7707,Lily,12,2.83,33.96,Alice,Regular,Cash,101,Uptown,15,28.866
+2022-07-26,INV-4722,Rose,1,2.45,2.45,Diana,Regular,Debit Card,101,Downtown,15,2.0825
+2022-07-26,INV-2197,Daisy,2,1.58,3.16,Charlie,Regular,Cash,101,Suburb,5,3.002
+2022-07-27,INV-3513,Daisy,15,2.21,33.15,Eve,Walk-in,Cash,105,Downtown,5,31.4925
+2022-07-27,INV-6871,Tulip,2,4.84,9.68,Diana,Walk-in,Debit Card,104,Suburb,20,7.744
+2022-07-27,INV-7718,Tulip,2,1.93,3.86,Alice,Walk-in,Debit Card,105,Suburb,5,3.667
+2022-07-27,INV-3214,Rose,13,4.74,61.62,Diana,Event,Debit Card,101,Uptown,10,55.458
+2022-07-28,INV-9327,Daisy,20,2.61,52.2,Eve,Event,Credit Card,105,Downtown,0,52.2
+2022-07-28,INV-7976,Sunflower,9,2.87,25.83,Eve,Event,Credit Card,101,Downtown,5,24.5385
+2022-07-28,INV-2595,Daisy,17,4.79,81.43,Bob,Walk-in,Credit Card,102,Downtown,20,65.144
+2022-07-28,INV-2166,Rose,13,3.54,46.02,Eve,Walk-in,Cash,103,Downtown,5,43.719
+2022-07-29,INV-1288,Sunflower,8,3,24,Bob,Walk-in,Credit Card,101,Uptown,5,22.8
+2022-07-29,INV-7264,Lily,8,2.61,20.88,Alice,Walk-in,Debit Card,102,Downtown,10,18.792
+2022-07-29,INV-8511,Daisy,6,3.12,18.72,Eve,Walk-in,Credit Card,101,Uptown,5,17.784
+2022-07-29,INV-5309,Tulip,2,3.98,7.96,Bob,Regular,Cash,101,Suburb,15,6.766
+2022-07-30,INV-5954,Daisy,6,4.03,24.18,Alice,Walk-in,Cash,103,Uptown,15,20.553
+2022-07-30,INV-7977,Daisy,9,3.02,27.18,Eve,Walk-in,Cash,104,Downtown,5,25.821
+2022-07-30,INV-1128,Rose,1,2.33,2.33,Charlie,Walk-in,Credit Card,103,Uptown,5,2.2135
+2022-07-30,INV-6737,Daisy,7,3.6,25.2,Diana,Event,Debit Card,104,Uptown,5,23.94
+2022-07-30,INV-5518,Rose,4,4.45,17.8,Eve,Event,Credit Card,105,Downtown,0,17.8
+2022-07-31,INV-6229,Tulip,5,1.9,9.5,Diana,Regular,Debit Card,102,Suburb,0,9.5
